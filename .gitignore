@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# GitHub Pages (allow /docs to be tracked)
+!docs/
+!docs/**
